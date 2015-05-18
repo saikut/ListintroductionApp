@@ -1,0 +1,6 @@
+D:\101193\31march\ListintroductionApp\ListintroductionApp\bin\Debug\ListintroductionApp.exe.config
+D:\101193\31march\ListintroductionApp\ListintroductionApp\bin\Debug\ListintroductionApp.exe
+D:\101193\31march\ListintroductionApp\ListintroductionApp\bin\Debug\ListintroductionApp.pdb
+D:\101193\31march\ListintroductionApp\ListintroductionApp\obj\Debug\ListintroductionApp.csprojResolveAssemblyReference.cache
+D:\101193\31march\ListintroductionApp\ListintroductionApp\obj\Debug\ListintroductionApp.exe
+D:\101193\31march\ListintroductionApp\ListintroductionApp\obj\Debug\ListintroductionApp.pdb
